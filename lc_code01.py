@@ -1,0 +1,2 @@
+import langchain̦
+print("LangChain is installed and working!")
